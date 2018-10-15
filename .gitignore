@@ -1,0 +1,6 @@
+# Ignore all
+!.gitignore
+*
+!/English/*
+/English/*.pdf
+/English/*.rar
