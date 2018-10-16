@@ -2,7 +2,7 @@
 !.gitignore
 *
 !*/
-
+!/StudyPlan_Syllabus/*.doc
 !/English/*.html
 !/English/*.jpg
 
