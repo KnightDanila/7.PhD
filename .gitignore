@@ -1,6 +1,7 @@
 # Ignore all
 !.gitignore
 *
+!index.html
 !*/
 !/StudyPlan_Syllabus/*.doc
 !/StudyPlan_Syllabus/*.xls
