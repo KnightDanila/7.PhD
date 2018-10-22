@@ -4,6 +4,9 @@
 !*/
 !/StudyPlan_Syllabus/*.doc
 !/StudyPlan_Syllabus/*.xls
+!/StudyPlan_Syllabus/*.html
+!/StudyPlan_Syllabus/
+!/StudyPlan_Syllabus/Res/*
 !/English/*.html
 !/English/*.jpg
 # !/(*/*.doc
