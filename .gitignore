@@ -13,9 +13,13 @@
 !/English/*.html
 !/English/*.jpg
 
+
+!/StudyPlan_Syllabus/7b/Docs/*/*
+
 # !/(*/*.doc
 
 *My*
+!My_Ind_plan2018_Pattern.doc
 
 
 
